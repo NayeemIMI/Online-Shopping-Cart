@@ -31,3 +31,7 @@ This a Java Web application. here I have implemented an online shopping cart on 
 -Open NetBeans and select "Open Project" from file menu.
 
 -Select the extracted sourece file directory and run the project.
+
+-Use **Nayeem** as UserName and **Nishaat** as Password.
+
+-Enjoy!
