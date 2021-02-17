@@ -28,4 +28,6 @@ This a Java Web application. here I have implemented an online shopping cart on 
 
 -Install NetBeans IDE 8.2 JavaEE edition.
 
-Open 
+-Open NetBeans and select "Open Project" from file menu.
+
+-Select the extracted sourece file directory and run the project.
